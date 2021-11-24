@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# GE High Assurance Systems 
+![GE](https://user-images.githubusercontent.com/12802455/143291140-77ca6db0-e419-4631-a962-f035f4cbab0f.jpg)
 
-You can use the [editor on GitHub](https://github.com/ge-high-assurance/ge-high-assurance.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The size and complexity of software that monitors, controls, and protects flight critical products continues to grow. This is compounded by an increased use of autonomous systems which are just as complex, if not more so, since many operator responsibilities are supported and replaced by software in unmanned systems. Further, these systems are subject to cyber-enabled attacks, thereby necessitating another level of complex software to ensure security. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Us
 
-### Markdown
+The GE High Assurance Systems research team is devoted to addressing the challenges with design, development, and verification of software-intensive, high assurance systems. Our goal is to develop technology, processes, and tools that result in more efficient software and system development as measured by cost and cycle time. We are based in Niskayuna, NY.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contact Us
 
-```markdown
-Syntax highlighted code block
+For additional information contact us at high.assurance@ge.com.
 
-# Header 1
-## Header 2
-### Header 3
+## Projects
 
-- Bulleted
-- List
+- [VERDICT](https://ge-high-assurance.github.io/VERDICT/)
+- [RACK](https://github.com/ge-high-assurance/RACK)
 
-1. Numbered
-2. List
+## Publications
 
-**Bold** and _Italic_ and `Code` text
+Here's a list of our publications.
 
-[Link](url) and ![Image](src)
-```
+---
+Copyright (c) 2021, General Electric Company.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ge-high-assurance/ge-high-assurance.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All Rights Reserved
